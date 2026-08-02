@@ -41,7 +41,7 @@ The full write-up is in `LAB_CN_02_Answers.docx`.
 
 | File | Description |
 |---|---|
-| `LAB_CN_02_Answers.docx` | Full detailed answers to all lab questions (Word format) |
+| `CNLAB2.docx` | Full detailed answers to all lab questions (Word format) |
 | `README.md` | This file — summary of the analysis |
 
 ## Quick summary of answers
