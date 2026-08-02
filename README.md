@@ -2,7 +2,7 @@
 
 ## What this is
 
-For this lab, a packet capture (`chandan1.pcapng`) was taken in Wireshark while
+For this lab, a packet capture (`chandan.pcapng`) was taken in Wireshark while
 accessing two websites from the terminal using `curl`:
 
 1. `http://neverssl.com/` — a plain HTTP site
